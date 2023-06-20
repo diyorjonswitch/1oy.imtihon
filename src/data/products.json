@@ -1,0 +1,72 @@
+[
+    {
+        "id": 2,
+        "title": "Fanta",
+        "price": "11 000",
+        "marketID": 1
+    },
+    {
+        "id": 3,
+        "title": "Pepsi",
+        "price": "9 000",
+        "marketID": 2
+    },
+    {
+        "id": 4,
+        "title": "Sprite",
+        "price": "10 000",
+        "marketID": 2
+    },
+    {
+        "id": 6,
+        "name": "flesh",
+        "price": "8 000"
+    },
+    {
+        "id": 7,
+        "name": "flesh",
+        "price": "8 000",
+        "marketID": 2
+    },
+    {
+        "id": 8,
+        "username": "Xalil",
+        "password": "xa123"
+    },
+    {
+        "id": 9,
+        "username": "Xalil",
+        "password": "xa123"
+    },
+    {
+        "id": 10,
+        "username": "Xalil",
+        "password": "xa123"
+    },
+    {
+        "id": 11,
+        "username": "Xalil",
+        "password": "xa123"
+    },
+    {
+        "id": 12,
+        "username": "Xalil",
+        "password": "xa123"
+    },
+    {
+        "id": 13,
+        "username": "Xalil",
+        "password": "xa123"
+    },
+    {
+        "id": 14,
+        "username": "Xalil",
+        "password": "xa123"
+    },
+    {
+        "id": 1,
+        "title": "borjomi",
+        "price": "10 000",
+        "marketID": 1
+    }
+]
